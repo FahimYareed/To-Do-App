@@ -26,7 +26,7 @@ A simple, responsive to-do list web application built with HTML, CSS, and JavaSc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/FahimYareed/To-Do-App.git
 ```
 
 2. Navigate to the project directory:
